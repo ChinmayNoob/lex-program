@@ -1,0 +1,4 @@
+Character = 40
+Word      = 18
+Space     = 18
+Line      = 4

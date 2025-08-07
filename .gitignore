@@ -1,0 +1,54 @@
+# Compiled executables
+count
+lexer
+pr3
+
+# Generated C files from lex/flex
+lex.yy.c
+*.yy.c
+
+# Object files
+*.o
+*.obj
+
+# Executables (general patterns)
+*.exe
+*.out
+a.out
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Core dumps
+core
+core.*
+
+# Backup files
+*.bak
+*.backup

@@ -1,0 +1,4 @@
+Hello this is a character.
+This is a new word.
+This is a test.
+This is a line.
