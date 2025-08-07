@@ -1,7 +1,14 @@
-# Compiled executables
+# Compiled executables (specific to this project)
+4d
+ceaser_cypher
 count
+extract
+histogram
+htmlfile
 lexer
 pr3
+roman
+simplecompound
 
 # Generated C files from lex/flex
 lex.yy.c
